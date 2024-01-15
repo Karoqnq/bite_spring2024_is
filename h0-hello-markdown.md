@@ -18,6 +18,6 @@ This is a report tryout for our first assignment.
 
     Code box tryout, beep boop.
 
-## Picture
+## Picture of my cat
 
 ![image](https://cdn.discordapp.com/attachments/292379508592607243/1194342468129411072/IMG-20240109-WA0000.jpg?ex=65b0011a&is=659d8c1a&hm=c427ba617f6ee38af9a3e35fe1ad996c06b1ca71789782a7c652bc2aae89abf9&)
