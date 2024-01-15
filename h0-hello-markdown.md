@@ -1,4 +1,4 @@
-# Hello Karo's World
+### Hello Karo's World
 
 This is a report tryout for our first assignment.
 
@@ -7,3 +7,9 @@ This is a report tryout for our first assignment.
 - I'm 21 years old
 - My favourite colour is turquoise
 - I have 3 tattoos (for now)
+
+## Dislikes
+
+- Mushrooms (sometimes good in sauces though)
+- Children
+- Microsoft support
