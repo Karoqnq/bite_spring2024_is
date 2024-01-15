@@ -11,5 +11,5 @@ This is a report tryout for our first assignment.
 ## Dislikes
 
 - Mushrooms (sometimes good in sauces though)
-- Children
+- Screaming children
 - Microsoft support ( no offense to microsoft, I just had problems when my account got hacked :( )
