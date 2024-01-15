@@ -1,8 +1,8 @@
-#Hello Karo's World
+# Hello Karo's World
 
 This is a report tryout for our first assignment.
 
-##Facts about me
+## Facts about me
 
 - I'm 21 years old
 - My favourite colour is turquoise
