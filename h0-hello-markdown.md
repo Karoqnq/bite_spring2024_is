@@ -13,3 +13,7 @@ This is a report tryout for our first assignment.
 - Mushrooms (sometimes good in sauces though)
 - Screaming children
 - Microsoft support ( no offense to microsoft, I just had problems when my account got hacked :( )
+
+## Codebox Tryout
+
+    Code box tryout, beep boop.
