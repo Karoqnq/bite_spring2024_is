@@ -27,12 +27,13 @@
 
   ## Summary of Chapters 3.2 and 3.3
 
-    Kill chain in the context of cybersecurity represents the different stages that an attacker goes through to achieve their objective which can be anything from stealing data to gaining unauthorized access to a system. This concept was first introduced in the U.S          military but has been adopted and now widely used in cybersecurity.
-    The model consists of 7 different phases:
+     Kill chain in the context of cybersecurity represents the different stages that an attacker goes through to achieve their objective which can be anything from stealing data to gaining unauthorized access to a system. This concept was first introduced in the U.S          military but has been adopted and now widely used in cybersecurity.
+    The model consists of 7 different phases
     
-      Reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives.
+    Reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives.
       
     It serves as a good framework for understanding and defending against cyber threats by allowing cybersecurity professionals to identify, analyse and mitigate possible vulnerabilities in each of the phases.
+  
 
   
 ### b) Install Debian 12-Bullseye virtual machine in VirtualBox
