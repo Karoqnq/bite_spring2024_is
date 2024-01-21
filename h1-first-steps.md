@@ -22,7 +22,7 @@
       Story 3: French Infrastructure Attack
     
     After running Defense Intelligence, Davis founded and sold companies till he finally established Hyas about 6 years ago. Hyas is a threat detection company, they concentrate on the infrastructure which is used by hackers to actively identify and prevent cyber-           attacks from happening.
-    While working in Hyas, Davis, had another in which incident where he noticed unusual traffic spikes, which this time were targeting critical infrastructure in France. Infrastructure, which was affected included banks, nuclear plants etc. Despite, reaching out to the        federal government of France and trying to contact them through FBI as well, France lacked in response to the cyber attack and Davis didn’t hear back from them.
+    While working in Hyas, Davis, had another incident in which he noticed unusual traffic spikes, which this time were targeting critical infrastructure in France. Infrastructure, which was affected included banks, nuclear plants etc. Despite, reaching out to the        federal government of France and trying to contact them through FBI as well, France lacked in response to the cyber attack and Davis didn’t hear back from them.
 
     My own comments: I think that the podcast episode was really interesting! I struggled summarizing it into what I hoped for detail wise, but if anyone wants to know more about these types of attacks and the specific ways they were taken down I very much do recommend      listening to this.
 
