@@ -13,7 +13,7 @@
     
     Curador had made a big named for himself compromising e-commerce sites and constantly bragging about stealing and publishing people’s personal credit card information. The ego of this hacker motivated Davis, to take him down which he managed to do by going               through different network server logs. He ended up collaborating with the UK federal government and police, finally taking down Curador, an 18-year-old boy from Wales. Despite the crimes, Davis still found himself feeling a mix of pity and empathy for the boy, as he     understood the challenges of growing up in a less privileged environment especially at that age.
     
-      Story 2: Mariposa botnet
+      Story 2: Mariposa Botnet
 
     He first encountered this botnet through noticing unusual patterns in the network server logs due to a surge in traffic to normally unused domains. Investigating the activity further, he realized that there were multiple different botnets working under the same                   umbrella. Suspecting that this had something to do with malicious activity, he analysed control server logs which eventually took him back to Spain. From there on Davis worked with Panda Security, a Spanish cyber security company, to take down the people in              charge of the Mariposa botnet. This was so far the biggest botnet he has worked with reaching to about 14 million users.
     
