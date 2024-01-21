@@ -16,7 +16,8 @@
       Story 2: Mariposa botnet
     
     Continuing from there, Davis moved around working different jobs. He worked for Dell in Texas and start-up company for his friend, however, after awhile ended up in Ottawa where he founded Defence Intelligence, a company focusing on defence and cybersecurity. 
-    A challenge he didn’t see coming was the Mariposa botnet. He first encountered this botnet through unusual patterns in the network server logs due to a surge in traffic to normally unused domains. Investigating the activity further, he realized that there were           multiple different botnets working under the same umbrella. Suspecting that this had something to do with malicious activity, he analysed control server logs which eventually took him back to Spain. From there on Davis worked with Panda Security, a Spanish cyber         security company, to take down the people in charge of the Mariposa botnet. This was so far the biggest botnet he has worked with reaching to about 14 million users.
+
+    He first encountered this botnet through unusual patterns in the network server logs due to a surge in traffic to normally unused domains. Investigating the activity further, he realized that there were multiple different botnets working under the same                   umbrella. Suspecting that this had something to do with malicious activity, he analysed control server logs which eventually took him back to Spain. From there on Davis worked with Panda Security, a Spanish cyber security company, to take down the people in              charge of the Mariposa botnet. This was so far the biggest botnet he has worked with reaching to about 14 million users.
     
       Story 3: French Infrastructure Attack
     
