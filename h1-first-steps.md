@@ -35,7 +35,7 @@
   
     It serves as a good framework for understanding and defending against cyber threats by allowing cybersecurity professionals to identify, analyse and reduce possible vulnerabilities in each of the phases. Examples of the actions against these threats are seen in the tables shown in the article.
 
-    My own comments: The text was not that long but quite a hard read. I did have to google some concepts to be able to write them in a simpler manner.
+    My own comments: The text was not that long but quite a hard read. I did have to google some concepts to be able to write them in a simpler manner. However, in the context of kill chains and how the model works, I think the podcast topic and the article worked well together.
       
 
   
