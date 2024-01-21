@@ -11,7 +11,7 @@
     
       Story 1: Curador
     
-    In the first story, Davis, decided to dig deeper into a hacker called Curador. Curador had made a big named for himself compromising e-commerce sites and constantly bragging about stealing and publishing people’s personal credit card information. The ego of this         hacker motivated Davis, to take him down which he managed to do by going through different network server logs. He ended up collaborating with the UK federal government and police, finally taking down Curador, an 18-year-old boy from Wales. Despite the crimes,           Davis still found himself feeling a mix of pity and empathy for the boy, as he understood the challenges of growing up in a less privileged environment especially at that age.
+    Curador had made a big named for himself compromising e-commerce sites and constantly bragging about stealing and publishing people’s personal credit card information. The ego of this hacker motivated Davis, to take him down which he managed to do by going               through different network server logs. He ended up collaborating with the UK federal government and police, finally taking down Curador, an 18-year-old boy from Wales. Despite the crimes, Davis still found himself feeling a mix of pity and empathy for the boy, as he     understood the challenges of growing up in a less privileged environment especially at that age.
     
       Story 2: Mariposa botnet
     
