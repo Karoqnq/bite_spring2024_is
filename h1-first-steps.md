@@ -33,7 +33,7 @@
   
       Reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives. 
   
-    It serves as a good framework for understanding and defending against cyber threats by allowing cybersecurity professionals to identify, analyse and mitigate possible vulnerabilities in each of the phases. Examples of the actions against these threats are seen in the tables shown in the article.
+    It serves as a good framework for understanding and defending against cyber threats by allowing cybersecurity professionals to identify, analyse and reduce possible vulnerabilities in each of the phases. Examples of the actions against these threats are seen in the tables shown in the article.
       
 
   
