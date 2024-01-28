@@ -136,16 +136,15 @@ StudyFurn is a student focused online platform where students can connect to oth
 
 For our assets we can sum them up into 4 prioritised categories:
 
-Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies
+Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies <br />
+Affordability -> Students selling to students, market known for less income <br />
+Diversity of Payments -> MobilePay, Card, Klarna etc.<br />
+Connectivity -> Get to know students from all over, build relationships <br />
 
-Affordability -> Students selling to students, market known for less income
+[image](https://cdn.discordapp.com/attachments/476838378227236867/1201018750481223720/image.png?ex=65c84adf&is=65b5d5df&hm=428c3831040b22eb0298752aafa4cc865ed68ff3488a24200187a49fb400bde2&)
 
-Diversity of Payments -> MobilePay, Card, Klarna etc.
-
-Connectivity -> Get to know students from all over, build relationships
-
-
-
+Description:
+<br />
 
 
 
