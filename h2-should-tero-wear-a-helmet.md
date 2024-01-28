@@ -208,11 +208,16 @@ Review system. The review system involves both automated and manual content chec
 #### User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
 
 In conclusion, I think this threat model came out better than I expected. However, I do think some technical aspects could be further looked into and further analysed. Overall, I am happy with how it turned out.
+<br />
+<br />
+<br />
+<br />
 
-Sources: 
-StudyFurn Presentation.URL: https://haagahelia-my.sharepoint.com/personal/bgt982_myy_haaga-helia_fi/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbgt982%5Fmyy%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FBusiness%2FEBOassignment3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1
-Risk Management 101. URL: https://www.auditboard.com/blog/risk-management-101/
-Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
+###### Sources: 
+###### StudyFurn Presentation.URL: https://haagahelia-my.sharepoint.com/personal/bgt982_myy_haaga-helia_fi/_layouts/15/stream.aspx?
+###### id=%2Fpersonal%2Fbgt982%5Fmyy%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FBusiness%2FEBOassignment3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1
+###### Risk Management 101. URL: https://www.auditboard.com/blog/risk-management-101/
+###### Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
 
 
 
