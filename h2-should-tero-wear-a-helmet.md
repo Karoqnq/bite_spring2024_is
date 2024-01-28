@@ -80,6 +80,7 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 
 -	Broken down into basic steps: Application decomposition, threat identification and ranking, mitigations, and review and validation.
 
+
 ### b) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that you consider useful, but might be above an average Joe?
 
 
