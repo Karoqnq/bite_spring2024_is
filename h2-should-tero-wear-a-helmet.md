@@ -137,8 +137,11 @@ StudyFurn is a student focused online platform where students can connect to oth
 For our assets we can sum them up into 4 prioritised categories:
 
 Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies
+
 Affordability -> Students selling to students, market known for less income
+
 Diversity of Payments -> MobilePay, Card, Klarna etc.
+
 Connectivity -> Get to know students from all over, build relationships
 
 
