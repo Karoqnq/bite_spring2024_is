@@ -26,6 +26,35 @@
 
   ## [Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf)
 
+-	Why? To predict problems which are likely to occur before they would cause the company any loss ex. security wise, expenses etc.
+
+-	What are we working on? 
+Collaboration is important and valuable.
+
+Sketching makes it easier to put your thoughts on paper and communicate them especially in the starting stages 
+
+Make records about what you’re doing, what have you done etc. With them you can learn new things about the systems and get details which will help with with finding out what can go wrong
+
+Data flow diagrams are important > threats tend to follow data
+
+5 symbols >
+Sharp corners = anything outside of your control
+Soft corners = anything under your control
+Data flows = element to connect the first two
+Drums = data storage
+Trust boundary = show that different elements are operated by different entities
+
+-	What can go wrong? 
+Use different structures like STRIDE or a kill chain to help find concerns. Structures help keep consistency.
+
+STRIDE = Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privileges
+
+
+-	What are we going to do about it?
+You need to do something about each and every threat, however, it is different for any field so the best constant is to track your work and go from there.
+Apply risk management to a subset of the threats you discover. Some threats you can fix immediately, some take more time and some can never be fixed.
+
+
   ## [Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
   ## [Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
