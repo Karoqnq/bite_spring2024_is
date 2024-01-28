@@ -206,7 +206,7 @@ Review system. The review system involves both automated and manual content chec
 #### Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
 #### User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
 
-In conclusion, I think this threat model came out better than I expected. However, I do think some technical aspects could be further looked into and further analysed. Overall, I am happy with how it turned out.
+In conclusion, I think this threat model came out better than I expected. However, I do think some technical aspects could be further looked into and some analysation could've been explained in longer text. Overall, I am happy with how it turned out.
 <br />
 <br />
 <br />
