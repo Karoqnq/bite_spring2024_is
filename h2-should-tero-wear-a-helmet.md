@@ -218,6 +218,7 @@ In conclusion, I think this threat model came out better than I expected. Howeve
 ###### Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
 ###### Risk Mitigation. URL: https://safetyculture.com/topics/risk-mitigation/
 ###### Risk Management Matrix: URL:https://www.auditboard.com/blog/what-is-a-risk-assessment-matrix/
+###### ChatGPT (in cases where language was a bit off or wording fixes) URL:https://chat.openai.com/
 
 
 
