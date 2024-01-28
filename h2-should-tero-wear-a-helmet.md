@@ -7,7 +7,22 @@
 - OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
 
   
-  ## Summary of Braiterman et al 2020: Threat modeling manifesto
+  ## [Summary of Braiterman et al 2020: Threat modeling manifesto](https://www.threatmodelingmanifesto.org/)
+
+-	Threat Modeling is the analysis of a system / company with the purpose of highlighting any possible risks concerning security and privacy
+
+-	Four key questions: What are we working on? What can go wrong? What are we going to do about it? Did we do a good enough job?
+
+-	Why? Pinpoint possible problems that need solving which in return will affect the decisions you’ll make moving forward
+
+-	Threat Modeling Manifesto > a guide to develop your own threat model
+
+-	Follows a 2 guideline format > Values, Principle
+
+-	Value > relative importance, there’s value in all things but one can have more than the other
+
+-	Principles >  3 types = general truths, patterns that are recommended, patterns (anti-patterns) that should be avoided
+
 
   ## Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 
