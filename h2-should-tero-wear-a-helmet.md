@@ -172,11 +172,13 @@ Probability = moderate
 Monetary impact = high/moderate
 - Information Disclosure > unauthorized sharing of sensitive information <br />
 
-## Brand Management
+### Brand Management
 Probability = moderate
 Monetary impact = moderate/low
 - Tampering > False accusations in public-facing content
-  
+- 
+
+### What are we going to do about it?
 
 
 
