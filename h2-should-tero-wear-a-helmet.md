@@ -98,7 +98,6 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 
 ## c) Make-belief boogie-man - a threat model for imaginary company.
 
-A long, extensive answer with narrative, analysis and a diagram is expected.
 Create an imaginary company and create threat model.
 Business requirements come from business, technical specialist help with tech. Inlude this in your narrative.
 Your analysis should cover all parts of the four question model (four key questions in Threat modeling manifesto)
@@ -131,7 +130,7 @@ Security audits, pentests, assesments, continous threat modeling and evaluation
 
 
 ## My company: 
-(The actual idea of this company did come from a class I had last semester and fortunately enough I was the one to do the risk assesment for that. I'll give extra credit towards the company idea to my group mates Kivelä Jutta, Nygård Eva, Rakitin Fedor, and Mohamed Salmaan)
+(The idea of this company cane from a class I had last semester and fortunately I was the one to do the risk assesment for that. I'll give credit for the idea to the people I worked with Kivelä Jutta, Nygård Eva, Rakitin Fedor, and Mohamed Salmaan. However, I would like to confirm that I did do this assignment individually.)
 
 ### What are we working on? <br />
 
