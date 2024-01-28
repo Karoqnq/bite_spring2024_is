@@ -130,13 +130,13 @@ Reduce, transfer, avoid, accept
 Security audits, pentests, assesments, continous threat modeling and evaluation
 
 
-### My company: 
+## My company: 
 
-What are we working on? <br />
+### What are we working on? <br />
 
 StudyFurn is a student focused online platform where students can connect to others by selling and buying affordable furniture, books, and other household appliances.
 
-For our assets we can sum them up into 4 prioritised categories:
+For our assets we have divided them up into 4 prioritised categories:
 
 Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies <br />
 Affordability -> Students selling to students, market known for less income <br />
@@ -149,6 +149,28 @@ Description: <br />
 Our flow diagram represents a simplified version of how the company systems work. <br />
 <br />
 First of all the user interacts with our application for which they need to make an account. To make an account they have to authenticate themselves through our partner StudyInfo and will be taken to their website to confirm that they are a student. StudyInfo most commonly uses bank credentials to authenticate the legitemasy of the person as it's connected to their government id. As the authentication is necessary to be able to use our app, we've added both StudyInfo and the Banking API into our trust boundary even though they are external entities. Our payments are done through third party applications such as MobilePay, PayPal and Klarna. Due to this we can't promise that nothing will happen to their systems so they've been left out of the trust boundary.
+
+
+### What can go wrong?
+
+For risks we've decided to use the STRIDE model. We've divided our risks into 4 seperate categories taking into count the potential impact and value. <br />
+
+### Trust and Safety <br />
+Probability = low/moderate 
+Monetary impact = high <br />
+- Spoofing > Fake accounts, identity theft
+- Integrity > Unauthorized modification / access to user data <br />
+
+### Technical Difficulties <br />
+Probability = moderate <br />
+Monetary impact = high <br />
+
+  
+
+
+
+
+
 
 
 
