@@ -1,12 +1,12 @@
 # H2 Should Tero wear a helmet?
 
-### a) Read and summarise
+## a) Read and summarise
 - Braiterman et al 2020: Threat modeling manifesto
 - Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course (12 parts, about 15 min total, audio is enough for all except video 7 "Data flow diagrams")
 - Shostack 2014: Chapter 1 - Dive In and Threat Model!
 - OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
   
-  ## [Summary of Braiterman et al 2020: Threat modeling manifesto](https://www.threatmodelingmanifesto.org/)
+  ### [Summary of Braiterman et al 2020: Threat modeling manifesto](https://www.threatmodelingmanifesto.org/)
 
 -	Threat Modeling is the analysis of a system / company with the purpose of highlighting any possible risks concerning security and privacy
 
@@ -23,7 +23,7 @@
 -	Principles >  3 types = general truths, patterns that are recommended, patterns (anti-patterns) that should be avoided
 
 
-  ## [Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf)
+  ### [Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf)
 
 -	Why? To predict problems which are likely to occur before they would cause the company any loss ex. security wise, expenses etc.
 
@@ -57,7 +57,7 @@ You need to do something about each and every threat, however, it is different f
 Apply risk management to a subset of the threats you discover. Some threats you can fix immediately, some take more time and some can never be fixed.
 
 
-  ## [Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
+  ### [Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
   -	Enables you to find issues before everything is set in stone
     
@@ -66,7 +66,7 @@ Apply risk management to a subset of the threats you discover. Some threats you 
   -	When playing an instrument, you need to develop muscles and awareness by actually playing the instrument.Through practice it gets easier and you’ll become better. It’s the same for threat modelling while following the four-step breakdown.
 
 
-  ## [Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+  ### [Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
   -	Structured repeatable process meant for gaining insight into security characteristics, modelling a system from the perspective of security, identifying threats based on the model, and determining the responses to those threats.
 
@@ -81,7 +81,7 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 -	Broken down into basic steps: Application decomposition, threat identification and ranking, mitigations, and review and validation.
 
 
-### b) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that you consider useful, but might be above an average Joe?
+## b) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that you consider useful, but might be above an average Joe?
 
 -	Back up your data 
 
