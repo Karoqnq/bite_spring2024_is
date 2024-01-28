@@ -131,6 +131,7 @@ Security audits, pentests, assesments, continous threat modeling and evaluation
 
 
 ## My company: 
+(The actual idea of this company did come from a class I had last semester and fortunately enough I was the one to do the risk assesment for that. I'll give extra credit towards the company idea to my group mates Kivelä Jutta, Nygård Eva, Rakitin Fedor, and Mohamed Salmaan)
 
 ### What are we working on? <br />
 
@@ -198,6 +199,7 @@ Scalable Infrastructure and server traffic monitoring. The platform uses scalabl
 Review system. The review system involves both automated and manual content checks. Additionally, customer support actively monitors and addresses reports of false accusations, providing a smooth content management process.
 
 
+### Did we do good enough of a job?
 
 ### For continuity:
 
@@ -205,7 +207,12 @@ Review system. The review system involves both automated and manual content chec
 #### Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
 #### User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
 
+In conclusion, I think this threat model came out better than I expected. However, I do think some technical aspects could be further looked into and further analysed. Overall, I am happy with how it turned out.
 
+Sources: 
+StudyFurn Presentation.URL: https://haagahelia-my.sharepoint.com/personal/bgt982_myy_haaga-helia_fi/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbgt982%5Fmyy%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FBusiness%2FEBOassignment3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1
+Risk Management 101. URL: https://www.auditboard.com/blog/risk-management-101/
+Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
 
 
 
