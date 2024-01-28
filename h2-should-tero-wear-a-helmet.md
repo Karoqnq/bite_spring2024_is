@@ -28,7 +28,8 @@
 
 -	Why? To predict problems which are likely to occur before they would cause the company any loss ex. security wise, expenses etc.
 
--	What are we working on? 
+-	What are we working on?
+  
 Collaboration is important and valuable.
 
 Sketching makes it easier to put your thoughts on paper and communicate them especially in the starting stages 
