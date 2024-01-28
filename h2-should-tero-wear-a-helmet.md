@@ -96,6 +96,39 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 
 -	Keep your software updated (updates can be regarding updating the systems / software from possible threats)
 
+## c) Make-belief boogie-man - a threat model for imaginary company.
+
+A long, extensive answer with narrative, analysis and a diagram is expected.
+Create an imaginary company and create threat model.
+Business requirements come from business, technical specialist help with tech. Inlude this in your narrative.
+Your analysis should cover all parts of the four question model (four key questions in Threat modeling manifesto)
+
+(1) What are we working on?
+Our assets
+Priorization, key assets
+E.g. customer health data is a crown jevel, personel gaming server is probably not
+Security supports business
+Draw a diagram of the company systems
+Write a description.
+
+(2) What can go wrong?
+Apply one or more named models: Attack trees, STRIDE, ATT&CK...
+Give some examples of identified risks - you don't need to find all risks or likely vulnerabilites, as there would be too many for this homework.
+Priorize biggest risks
+High expected value (or other very high risk)
+Expected value = probability * monetary value
+Expected value is a tool for discussion, it's not exact science as we have to guestimate the input numbers
+Are you targetted by specific threat actors?
+Known TTPs? (tactics, techniques, procedures)
+COI - Capability, Opportunity, Intent
+
+(3) What are we going to do about it?
+Can you: reduce attack surface, limit entry points...
+Reduce, transfer, avoid, accept
+
+(4) Did we do a good enough job?
+Security audits, pentests, assesments, continous threat modeling and evaluation
+
 
 
 
