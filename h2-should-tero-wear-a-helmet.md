@@ -61,7 +61,9 @@ Apply risk management to a subset of the threats you discover. Some threats you 
   ## [Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
   -	Enables you to find issues before everything is set in stone
+    
   -	Using a model helps abstract away a portion of the details and see a bigger picture
+    
   -	When playing an instrument, you need to develop muscles and awareness by actually playing the instrument.Through practice it gets easier and you’ll become better. It’s the same for threat modelling while following the four-step breakdown.
 
 
