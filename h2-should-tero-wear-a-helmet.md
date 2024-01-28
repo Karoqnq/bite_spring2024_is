@@ -215,7 +215,6 @@ In conclusion, I think this threat model came out better than I expected. Howeve
 
 ###### Sources: 
 ###### StudyFurn Presentation.URL: https://haagahelia-my.sharepoint.com/personal/bgt982_myy_haaga-helia_fi/_layouts/15/stream.aspx?
-###### id=%2Fpersonal%2Fbgt982%5Fmyy%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FBusiness%2FEBOassignment3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1
 ###### Risk Management 101. URL: https://www.auditboard.com/blog/risk-management-101/
 ###### Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
 
