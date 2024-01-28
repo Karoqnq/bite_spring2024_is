@@ -141,7 +141,7 @@ Affordability -> Students selling to students, market known for less income <br 
 Diversity of Payments -> MobilePay, Card, Klarna etc.<br />
 Connectivity -> Get to know students from all over, build relationships <br />
 
-[image](https://cdn.discordapp.com/attachments/476838378227236867/1201018750481223720/image.png?ex=65c84adf&is=65b5d5df&hm=428c3831040b22eb0298752aafa4cc865ed68ff3488a24200187a49fb400bde2&)
+![image](https://cdn.discordapp.com/attachments/476838378227236867/1201018750481223720/image.png?ex=65c84adf&is=65b5d5df&hm=428c3831040b22eb0298752aafa4cc865ed68ff3488a24200187a49fb400bde2&)
 
 Description:
 <br />
