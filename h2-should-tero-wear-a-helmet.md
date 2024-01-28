@@ -83,6 +83,19 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 
 ### b) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that you consider useful, but might be above an average Joe?
 
+-	Back up your data 
+
+-	Use Two-Factor Authentication
+
+-	Strong passwords + password manager (I think this was one of the things I was surprised about in class as I was the only one to have a password manager)
+
+-	Use Antivirus software/ existing antivirus turned on (ex. Windows)
+
+-	Educate yourself on security threats (I fell for a phising scam and lost an account and everything related to all my personal info + uni work for the entirety of first year so I try to stay on board with the newer methods)
+
+-	Keep your software updated (updates can be regarding updating the systems / software from possible threats)
+
+
 
 
 
