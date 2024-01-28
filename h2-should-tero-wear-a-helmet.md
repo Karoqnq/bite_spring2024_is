@@ -69,6 +69,19 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 
   ## [Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
+  -	Structured repeatable process meant for gaining insight into security characteristics, modelling a system from the perspective of security, identifying threats based on the model, and determining the responses to those threats.
+
+-	Ideally performed as early as possible.
+
+-	Maintain, update and refine alongside the system.
+
+-	Advantages > Improved Visibility of Target of Evaluation, Increased Security Awareness, Identify Risks Early-On 
+
+-	Many different threat modelling techniques (PASTA, STRIDE, OCTAVE etc.), no right or wrong but most follow the same four key questions.
+
+-	Broken down into basic steps: Application decomposition, threat identification and ranking, mitigations, and review and validation.
+
+
 
 
   
