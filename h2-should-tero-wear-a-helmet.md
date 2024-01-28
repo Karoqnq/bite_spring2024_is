@@ -192,7 +192,7 @@ Encryption of all sensitive data. Sensitive user data, such as personal informat
 Control and monitor data access. Regular check ups are conducted to track access to sensitive information. Access controls are implemented to restrict data access only to authorized personel, reducing the risk of unauthorized information disclosure.
 
 #### Denial Of Service: <br />
-Scalable Infrastructure and server traffic monitoring. The platform would use scalable infrastructure, which allows it to dynamically scale resources based on demand. Automated tools can continuously monitor server traffic and incase of potential disruptions staff can manually intervene to take care of the potential threats.
+Scalable Infrastructure and server traffic monitoring. The platform uses scalable infrastructure, which allows it to dynamically scale resources based on demand as well as automated tools which continuously monitor server traffic. Incase of potential disruptions staff can manually intervene to take care of the threats.
 
 #### Tampering(False accusations in public-facing content):<br />
 Review system. The review system involves both automated and manual content checks. Additionally, customer support actively monitors and addresses reports of false accusations, providing a smooth content management process.
