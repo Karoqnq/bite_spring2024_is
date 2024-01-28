@@ -180,9 +180,9 @@ Monetary impact = moderate/low
 
 ### What are we going to do about it?
 
-###Mitigation for the possible risks:
+### Mitigation for the possible risks:
 
-Spoofing: <br />
+#### Spoofing: <br />
 We've implemented a multi-factor authentication with our partner StudyInfo. StudyInfo uses bank credentials for authentication which are tied to government IDs, adding an extra layer of verification to prevent fake accounts and identity theft.
 
 #### Tampering (Unauthorized access to user data):<br />
