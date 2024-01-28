@@ -134,7 +134,7 @@ Security audits, pentests, assesments, continous threat modeling and evaluation
 
 ### StudyFurn is a student focused online platform where students can connect to others by selling and buying affordable furniture, books, and other household appliances.
 
-For our assets we have 4 main priorities:
+For our assets we can sum them up into 4 prioritised categories:
 
 Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies
 Affordability -> Students selling to students, market known for less income
