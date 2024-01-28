@@ -153,18 +153,29 @@ First of all the user interacts with our application for which they need to make
 
 ### What can go wrong?
 
-For risks we've decided to use the STRIDE model. We've divided our risks into 4 seperate categories taking into count the potential impact and value. <br />
+For risks we've decided to use the STRIDE model. We've divided our risks into 4 seperate categories taking into count the potential probability and impact. <br />
 
 ### Trust and Safety <br />
 Probability = low/moderate 
 Monetary impact = high <br />
 - Spoofing > Fake accounts, identity theft
-- Integrity > Unauthorized modification / access to user data <br />
+- Tampering > Unauthorized modification / access to user data
+- Information Disclosure > unauthorized sharing of sensitive information <br />
 
 ### Technical Difficulties <br />
-Probability = moderate <br />
+Probability = moderate 
 Monetary impact = high <br />
+- Denial of Service > System overload, service disruption, servers down for unknow time
 
+### Market Competition
+Probability = moderate
+Monetary impact = high/moderate
+- Information Disclosure > unauthorized sharing of sensitive information <br />
+
+## Brand Management
+Probability = moderate
+Monetary impact = moderate/low
+- Tampering > False accusations in public-facing content
   
 
 
