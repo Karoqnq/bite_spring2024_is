@@ -130,6 +130,18 @@ Reduce, transfer, avoid, accept
 Security audits, pentests, assesments, continous threat modeling and evaluation
 
 
+My company: 
+
+StudyFurn is a student focused online platform where students can connect to others by selling and buying affordable furniture, books, and other household appliances.
+
+For our assets we have 4 main priorities:
+
+Authentication and Security -> StudyInfo for authentication, review system, buyer protection policies
+Affordability -> Students selling to students, market known for less income
+Diversity of Payments -> MobilePay, Card, Klarna etc.
+Connectivity -> Get to know students from all over, build relationships
+
+
 
 
 
