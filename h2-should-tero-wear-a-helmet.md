@@ -24,11 +24,11 @@
 -	Principles >  3 types = general truths, patterns that are recommended, patterns (anti-patterns) that should be avoided
 
 
-  ## Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
+  ## [Summary of Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf)
 
-  ## Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!
+  ## [Summary of Shostack 2014: Chapter 1 - Dive In and Threat Model!](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
-  ## Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
+  ## [Summary of OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
 
 
