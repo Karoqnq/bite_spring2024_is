@@ -217,7 +217,8 @@ In conclusion, I think this threat model came out better than I expected. Howeve
 ###### StudyFurn Presentation.URL: https://haagahelia-my.sharepoint.com/personal/bgt982_myy_haaga-helia_fi/_layouts/15/stream.aspx?
 ###### Risk Management 101. URL: https://www.auditboard.com/blog/risk-management-101/
 ###### Exploring Scalability in Networking. URL: https://www.wrike.com/blog/exploring-scalability-in-networking/#:~:text=Scalability%20refers%20to%20the%20capability,without%20compromising%20performance%20or%20reliability.
-
+###### Risk Mitigation. URL: https://safetyculture.com/topics/risk-mitigation/
+###### Risk Management Matrix: URL:https://www.auditboard.com/blog/what-is-a-risk-assessment-matrix/
 
 
 
