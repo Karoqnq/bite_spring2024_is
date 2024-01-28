@@ -145,6 +145,7 @@ Connectivity -> Get to know students from all over, build relationships <br />
 
 Description: <br />
 Our flow diagram represents a simplified version of how the company systems work. <br />
+<br />
 First of all the user interacts with our application for which they need to make an account. To make an account they have to authenticate themselves through our partner StudyInfo and will be taken to their website to confirm that they are a student. StudyInfo most commonly uses bank credentials to authenticate the legitemasy of the person as it's connected to their government id. As the authentication is necessary to be able to use our app, we've added both StudyInfo and the Banking API into our trust boundary even though they are external entities. Our payments are done through third party applications such as MobilePay, PayPal and Klarna. Due to this we can't promise that nothing will happen to their systems so they've been left out of the trust boundary.
 
 
