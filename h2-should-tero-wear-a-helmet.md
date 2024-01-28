@@ -180,28 +180,28 @@ Monetary impact = moderate/low
 
 ### What are we going to do about it?
 
-Mitigation for the possible risks:
+###Mitigation for the possible risks:
 
 Spoofing: <br />
 We've implemented a multi-factor authentication with our partner StudyInfo. StudyInfo uses bank credentials for authentication which are tied to government IDs, adding an extra layer of verification to prevent fake accounts and identity theft.
 
-Tampering (Unauthorized access to user data):<br />
+#### Tampering (Unauthorized access to user data):<br />
 Encryption of all sensitive data. Sensitive user data, such as personal information and transaction details is encrypted, ensuring the integrity and confidentiality of user information.
 
-Information Disclosure:<br />
+#### Information Disclosure:<br />
 Control and monitor data access. Regular check ups are conducted to track access to sensitive information. Access controls are implemented to restrict data access only to authorized personel, reducing the risk of unauthorized information disclosure.
 
-Denial Of Service: <br />
+#### Denial Of Service: <br />
 Scalable Infrastructure and server traffic monitoring. The platform would use scalable infrastructure, which allows it to dynamically scale resources based on demand. Automated tools can continuously monitor server traffic and incase of potential disruptions staff can manually intervene to take care of the potential threats.
 
-Tampering(False accusations in public-facing content):<br />
+#### Tampering(False accusations in public-facing content):<br />
 Review system. The review system involves both automated and manual content checks. Additionally, customer support actively monitors and addresses reports of false accusations, providing a smooth content management process.
 
-For continuity:
+###For continuity:
 
-Security Training: Regular training sessions for the development and support teams so they stay updated on the best pratices.
-Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
-User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
+####Security Training: Regular training sessions for the development and support teams so they stay updated on the best pratices.
+####Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
+####User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
 
 
 
