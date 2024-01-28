@@ -5,7 +5,6 @@
 - Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course (12 parts, about 15 min total, audio is enough for all except video 7 "Data flow diagrams")
 - Shostack 2014: Chapter 1 - Dive In and Threat Model!
 - OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
-
   
   ## [Summary of Braiterman et al 2020: Threat modeling manifesto](https://www.threatmodelingmanifesto.org/)
 
@@ -80,6 +79,8 @@ Apply risk management to a subset of the threats you discover. Some threats you 
 -	Many different threat modelling techniques (PASTA, STRIDE, OCTAVE etc.), no right or wrong but most follow the same four key questions.
 
 -	Broken down into basic steps: Application decomposition, threat identification and ranking, mitigations, and review and validation.
+
+### b) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that you consider useful, but might be above an average Joe?
 
 
 
