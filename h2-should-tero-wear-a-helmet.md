@@ -197,6 +197,8 @@ Scalable Infrastructure and server traffic monitoring. The platform uses scalabl
 #### Tampering(False accusations in public-facing content):<br />
 Review system. The review system involves both automated and manual content checks. Additionally, customer support actively monitors and addresses reports of false accusations, providing a smooth content management process.
 
+
+
 ### For continuity:
 
 #### Security Training: Regular training sessions for the development and support teams so they stay updated on the best pratices.
