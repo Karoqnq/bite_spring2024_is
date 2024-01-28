@@ -132,6 +132,8 @@ Security audits, pentests, assesments, continous threat modeling and evaluation
 
 ### My company: 
 
+What are we working on? <br />
+
 StudyFurn is a student focused online platform where students can connect to others by selling and buying affordable furniture, books, and other household appliances.
 
 For our assets we can sum them up into 4 prioritised categories:
