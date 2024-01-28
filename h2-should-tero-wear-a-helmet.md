@@ -45,13 +45,15 @@ Data flows = element to connect the first two
 Drums = data storage
 Trust boundary = show that different elements are operated by different entities
 
--	What can go wrong? 
+-	What can go wrong?
+  
 Use different structures like STRIDE or a kill chain to help find concerns. Structures help keep consistency.
 
 STRIDE = Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privileges
 
 
 -	What are we going to do about it?
+  
 You need to do something about each and every threat, however, it is different for any field so the best constant is to track your work and go from there.
 Apply risk management to a subset of the threats you discover. Some threats you can fix immediately, some take more time and some can never be fixed.
 
