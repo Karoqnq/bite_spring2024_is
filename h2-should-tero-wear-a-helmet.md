@@ -199,9 +199,9 @@ Review system. The review system involves both automated and manual content chec
 
 ###For continuity:
 
-####Security Training: Regular training sessions for the development and support teams so they stay updated on the best pratices.
-####Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
-####User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
+#### Security Training: Regular training sessions for the development and support teams so they stay updated on the best pratices.
+#### Continuous Monitoring: Implement monitoring tools which can detect and respond to potential security threats. 
+#### User Education: Emphasize the importance of account security and online practices. Possibly, by in app notifications etc.
 
 
 
