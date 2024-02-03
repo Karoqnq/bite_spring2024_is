@@ -21,6 +21,11 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
 
 ## d) Sequel. Solve SQLZoo:
   - 0 SELECT basics
+    ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/c4c9a1cc-c86c-441e-8060-530ce14cef5f)
+    ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/9414bb55-7667-456f-80ff-00bb13fcb5bd)
+    ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/ab8dd78f-576b-42a9-8c50-7ee2aa58d68c)
+
+  - 2 SELECT from World, from first two subtasks.
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/99b972c8-d6b0-4256-85f7-b2929436cd9e)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/81011b0f-252d-41f0-9af3-9235848ced3e)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/212a8190-43e3-48c9-a870-96da90e5121a)
@@ -32,13 +37,5 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/5665c9a8-03e5-4d90-a06b-d4d575d2a40a)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/d72cf6dc-bd8b-4349-ba82-4ab63b81388c)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e9babd43-3dda-4bc1-8f16-fcaa2a54d14f)
-
-
-
-
-
-
-
-
-  - 2 SELECT from World, from first two subtasks.
+    
 ## e) Johnny tables. Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
