@@ -38,12 +38,25 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e9babd43-3dda-4bc1-8f16-fcaa2a54d14f)
     
 ## e) Johnny tables. Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+- This is the website we were forwarded to
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/c135d8e6-8bde-4cff-a8a8-1b87859fcb71)
-This is the website we were forwarded to. When we check the refined search we can see that the category is defined by different topics. 
-<br />
+- When we check the refined search we can see that the category is defined by different topics depending on which one you're looking at. 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/41eb7d54-072b-43c3-987c-a4e09494f3a4)
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/eaab5d80-9029-404b-afb5-10d287897950)
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/0b2ce47c-3cdd-4960-b1cf-7a6afe0e3c3b)
+- In our case we were supposed to find something similar to this > SELECT * FROM products WHERE category = 'Gifts' AND released = 1
+- The URL matching closest to our select statement would be the one for corporate gifts
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/067984b7-5979-4082-a33e-ef9c7ac081d6)
+- We can try to close that statement with quotes in which case it shows an internal server error
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/836fc43b-ddd9-41cd-a266-7e5fa2b8ac71)
+- As we have now succesfully closed the old statement we can try to see if there is a vulnerability in the website by adding a simple statement of OR 1 = 1 -- after it and if there is a vulnerability it will show us all the info regarding the website database
+- Why we use ' OR 1 = 1 -- is because 1 always equals to 1 and -- comments out the rest of the code
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/d19bfe53-b02e-4b05-94d9-cb3658cf8096)
+- This ended up working and gave us access to all the items on the website
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/708a2321-5a0e-438b-8f83-9be382472363)
+
+
+
 
 
 
