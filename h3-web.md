@@ -21,7 +21,6 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
 
 ## d) Sequel. Solve SQLZoo:
   - 0 SELECT basics
-    ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/22fd6330-3064-4e28-8295-30d8686720e3)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/99b972c8-d6b0-4256-85f7-b2929436cd9e)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/81011b0f-252d-41f0-9af3-9235848ced3e)
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/212a8190-43e3-48c9-a870-96da90e5121a)
