@@ -10,7 +10,7 @@ OWASP: OWASP 10 2021:
 - Done
   
 ## b) F12. Solve Webgoat 2023.4: General: Developer tools.
-Did this in class, not sure if I have to redo it.
+Did this in class, not sure if I have to redo it for this assignment.
   
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b7293e13-b0b4-4e81-8155-f25aee1176ae)
 
