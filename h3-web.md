@@ -7,8 +7,14 @@ OWASP: OWASP 10 2021:
 - A03:2021-Injection
 
 ## a) Goat. Install WebGoat 2023.4. This subtask does not need to be reported, unless there are technical problems.
+- Done
+  
 ## b) F12. Solve Webgoat 2023.4: General: Developer tools.
+- Did this in class, not sure if I have to redo it.
+  
 ## c) Not outdated. Update all operating system and all applications in your Linux.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/1668da20-5c4b-4d1b-9a59-27611130dac7)
+
 ## d) Sequel. Solve SQLZoo:
   - 0 SELECT basics
   - 2 SELECT from World, from first two subtasks.
