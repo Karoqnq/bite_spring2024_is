@@ -13,7 +13,8 @@ OWASP (Open Worldwide Application Security Project) 10 2021:
 - the security settings in the application servers, application frameworks, libraries, databases, etc. are not set to secure values,
 - the server does not send security headers or directives,
 - the software is out of date
-- Prevent by taking care of the previous vulnerabilities by implementing secure installation processes and making sure none of the vulnerabilities are in act
+  <br>
+- Prevent by taking care of
 - Examples of an attack:
 
 ### A06:2021-Vulnerable and Outdated Components
