@@ -1,10 +1,23 @@
 # Assignment H3 - Web
 
-## a) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
-OWASP: OWASP 10 2021:
-- A05:2021-Security Misconfiguration
-- A06:2021-Vulnerable and Outdated Components
-- A03:2021-Injection
+## x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
+OWASP (Open Worldwide Application Security Project) 10 2021:
+### A05:2021-Security Misconfiguration
+- 90% applications tested for some form of misconfiguration, with an average incidence rate of 4%
+- Vulnerabilites if application is >
+- Missing appropriate security hardening across any part of the application stack or improperly configured permissions on cloud services,
+- unnecessary features are enabled or installed,
+- default accounts and their passwords are still enabled and unchanged,
+- error handling reveals stack traces or other overly informative error messages to users
+- the latest security features are disabled or not configured securely,
+- the security settings in the application servers, application frameworks, libraries, databases, etc. are not set to secure values,
+- the server does not send security headers or directives,
+- the software is out of date
+- Prevent by taking care of the previous vulnerabilities by implementing secure installation processes and making sure none of the vulnerabilities are in act
+- Examples of an attack:
+
+### A06:2021-Vulnerable and Outdated Components
+### A03:2021-Injection
 
 ## a) Goat. Install WebGoat 2023.4. This subtask does not need to be reported, unless there are technical problems.
 - Done
