@@ -12,7 +12,8 @@ OWASP (Open Worldwide Application Security Project) 10 2021:
 - the latest security features are disabled or not configured securely,
 - the security settings in the application servers, application frameworks, libraries, databases, etc. are not set to secure values,
 - the server does not send security headers or directives,
-- the software is out of date <br  />  
+- the software is out of date <br  />
+  
 - Prevent by taking care of
 - Examples of an attack:
 
