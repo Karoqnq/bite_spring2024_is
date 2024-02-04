@@ -4,7 +4,7 @@
 OWASP (Open Worldwide Application Security Project) 10 2021:
 ### A05:2021-Security Misconfiguration
 - 90% applications tested for some form of misconfiguration, with an average incidence rate of 4%
-- Vulnerabilites if application is >
+#### Vulnerabilites (if application is...)  >
 - Missing appropriate security hardening across any part of the application stack or improperly configured permissions on cloud services,
 - unnecessary features are enabled or installed,
 - default accounts and their passwords are still enabled and unchanged,
@@ -12,10 +12,11 @@ OWASP (Open Worldwide Application Security Project) 10 2021:
 - the latest security features are disabled or not configured securely,
 - the security settings in the application servers, application frameworks, libraries, databases, etc. are not set to secure values,
 - the server does not send security headers or directives,
-- the software is out of date <br  \>
+- the software is out of date
   
-- Prevent by taking care of
-- Examples of an attack:
+ #### Prevention >
+
+#### Example of an attack >
 
 ### A06:2021-Vulnerable and Outdated Components
 ### A03:2021-Injection
