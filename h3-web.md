@@ -13,10 +13,21 @@ OWASP (Open Worldwide Application Security Project) 10 2021:
 - the security settings in the application servers, application frameworks, libraries, databases, etc. are not set to secure values,
 - the server does not send security headers or directives,
 - the software is out of date
-  
- #### Prevention >
 
+  
+#### Prevention >
+- Repeadable hardening process, development, QA and production environments configured identically, with different credentials in each
+- Minimal platform, no unnecessary components, documentation, features, and samples
+- A task to continuesly review and update the configurations appropriate to all security notes, updates, and patches
+- A segmented application architecture
+- Send security directives to clients
+- An automated process to verify the effectiveness of the configurations and settings in all environments
+
+  
 #### Example of an attack >
+- The application server comes with sample applications not removed from the production server. These sample applications have known security flaws attackers use to compromise the server. Suppose one of these applications is the admin console, and default accounts weren't changed. In that case, the attacker logs in with default passwords and takes over.
+
+
 
 ### A06:2021-Vulnerable and Outdated Components
 ### A03:2021-Injection
