@@ -104,6 +104,8 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
     ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e9babd43-3dda-4bc1-8f16-fcaa2a54d14f)
     
 ## e) Johnny tables. Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+I didn't fully get it at first so got it with the help of the suggested video > URL: https://www.youtube.com/watch?v=alTceRdSxS0
+
 - This is the website we were forwarded to
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/c135d8e6-8bde-4cff-a8a8-1b87859fcb71)
 - When we check the refined search we can see that the category is defined by different topics depending on which one you're looking at. 
@@ -120,6 +122,7 @@ Ran the following code ($ sudo apt-get -y dist-upgrade) to make sure everything 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/d19bfe53-b02e-4b05-94d9-cb3658cf8096)
 - This ended up working and gave us access to all the items on the website
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/708a2321-5a0e-438b-8f83-9be382472363)
+
 
 
 
