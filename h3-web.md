@@ -52,7 +52,25 @@
 CVE-2017-5638, a Struts 2 remote code execution vulnerability that enables the execution of arbitrary code on the server, has been blamed for significant breaches.
 
 
-### A03:2021-Injection
+### A03:2021-Injection URL: https://owasp.org/Top10/A03_2021-Injection/
+- 94% of applications were tested for some form of injection with the max incidence rate of 19%, and an average incidence rate of 3%
+#### Vulnerabilities >
+- User-supplied data is not validated, filtered, or sanitized by the application
+- Dynamic queries or non-parameterized calls without context-aware escaping are used directly in the interpreter.
+- Hostile data is used within object-relational mapping (ORM) search parameters to extract additional, sensitive records
+- Hostile data is directly used or concatenated
+  
+#### Common injections > 
+- SQL, NoSQL, OS command, Object Relational Mapping (ORM), Expression Language (EL), Object Graph Navigation Library (OGNL)
+
+#### Prevention >
+- Use a safe API, which avoids using the interpreter entirely, provides a parameterized interface, or migrates to Object Relational Mapping Tools
+- Use positive server-side input validation (Not complete defense)
+- For any residual dynamic queries, escape special characters using the specific escape syntax for that interpreter
+- Use LIMIT and other SQL controls within queries to prevent mass disclosure of records in case of SQL injection
+
+#### Example of an attack >
+- An application uses untrusted data in the construction of the following vulnerable SQL call: String query = "SELECT \* FROM accounts WHERE custID='" + request.getParameter("id") + "'";
 
 ## a) Goat. Install WebGoat 2023.4. This subtask does not need to be reported, unless there are technical problems.
 - Done
