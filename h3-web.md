@@ -25,12 +25,6 @@
 - Send security directives to clients
 - An automated process to verify the effectiveness of the configurations and settings in all environments
 
-  
-#### Example of an attack >
-- The application server comes with sample applications not removed from the production server. These sample applications have known security flaws attackers use to compromise the server. Suppose one of these applications is the admin console, and default accounts weren't changed. In that case, the attacker logs in with default passwords and takes over.
-
-
-
 ### A06:2021-Vulnerable and Outdated Components URL: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 #### Vulnerabilities >
 - Not knowledgeable of the versions of all components in use
@@ -45,12 +39,6 @@
 - Continuously inventory the versions of both client-side and server-side components using secure tools
 - Obtain components from official sources over secure links
 - Monitor for libraries and components that are unmaintained or do not create security patches for older versions
-
-#### Example of an attack >
-- Components typically run with the same privileges as the application itself, so flaws in any component can result in serious impact. Such flaws can be accidental (e.g., coding error) or intentional (e.g., a backdoor in a component). Some example exploitable component vulnerabilities discovered are:
-
-CVE-2017-5638, a Struts 2 remote code execution vulnerability that enables the execution of arbitrary code on the server, has been blamed for significant breaches.
-
 
 ### A03:2021-Injection URL: https://owasp.org/Top10/A03_2021-Injection/
 - 94% of applications were tested for some form of injection with the max incidence rate of 19%, and an average incidence rate of 3%
@@ -68,9 +56,6 @@ CVE-2017-5638, a Struts 2 remote code execution vulnerability that enables the e
 - Use positive server-side input validation (Not complete defense)
 - For any residual dynamic queries, escape special characters using the specific escape syntax for that interpreter
 - Use LIMIT and other SQL controls within queries to prevent mass disclosure of records in case of SQL injection
-
-#### Example of an attack >
-- An application uses untrusted data in the construction of the following vulnerable SQL call: String query = "SELECT \* FROM accounts WHERE custID='" + request.getParameter("id") + "'";
 
 ## a) Goat. Install WebGoat 2023.4. This subtask does not need to be reported, unless there are technical problems.
 - Done
