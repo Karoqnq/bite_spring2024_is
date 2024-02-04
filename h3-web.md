@@ -1,7 +1,7 @@
 # Assignment H3 - Web
 
 ## x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
-###OWASP (Open Worldwide Application Security Project) 10 2021:
+### OWASP (Open Worldwide Application Security Project) 10 2021:
 
 
 ### A05:2021-Security Misconfiguration URL: https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
