@@ -17,13 +17,12 @@ Bitwarden like any other password manager mainly protects agains threats relatin
 Bitwarden encrypts all the sensitive information added into the vault: passwords, credit card numbers, secure notes and any other personal information. They have a full list shown on their website [URL: https://bitwarden.com/help/vault-data/](https://bitwarden.com/help/vault-data/). What it does not encrypt is the metadata, as an example information regarding the names or structures of folders. This enables them to have different features regarding searching and organizing within their application. 
   
 #### What's the license? How would you describe license's effects or categorize it?
-
+Bitwarden is licensed under the GNU Affero General Public License version 3 (AGPLv3), it's a copyleft license. [Copyleft licensing](https://bytescare.com/blog/difference-between-copyright-and-copyleft) is a method that encourages the unrestricted sharing, modificication, and utilisation of all creative works. It ensures that the source code of the software is open and acessible to all users.
   
 #### Where is the data stored? If in "the cloud", which country / juristiction / which companies? If on local disk, where?
-They have data storage both on their own servers and on your local machine. For their own servers, they process and store all vault data in the Microsoft Azure Cloud in the US or EU. For local host, decrypted data is stored in memory only and never written to persisten storage. Encrypted data is stored in different locations regarding your operating systems for Windows which I am using it would be here:
+They have data storage both on their own servers and on your local machine. For their own servers, they process and store all vault data in the Microsoft Azure Cloud in the US or EU. For local host, decrypted data is stored in memory only and never written to persisten storage. Encrypted data is stored in different locations regarding your operating systems. For Windows which I am using it would be here:
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/c68c5e82-3674-4c80-af93-6e6d8366ed36)
-
-  
+ 
 #### How is the data protected?
   The data is sealed with end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process. The data is encrypted before it leaves your device, and the only person with access to decrypting it will be you, even the staff can't unlock your data. 
   
