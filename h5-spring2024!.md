@@ -6,7 +6,7 @@
 ### a) Install Hashcat. Test it with a sample hash. See Karvinen 2022: Cracking Passwords with Hashcat
 ### b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 ### c) Choose a password manager. (This subtask b does not require tests with a computer). First, create a short list of some password managers; then pick one. Explain:
-A list of some well known password managers: Dashlane, Bitwarden, Google, 1Password, Nordpass
+#### A list of some well known password managers: Dashlane, Bitwarden, Google, 1Password, Nordpass
 
 I chose Bitwarden due to having used it myself for around half a year now.
 
