@@ -20,6 +20,8 @@ Bitwarden encrypts all the sensitive information added into the vault: passwords
 
   
 #### Where is the data stored? If in "the cloud", which country / juristiction / which companies? If on local disk, where?
+They have data storage both on their own servers and on your local machine. For their own servers, they process and store all vault data in the Microsoft Azure Cloud in the US or EU. For local host, decrypted data is stored in memory only and never written to persisten storage. Encrypted data is stored in different locations regarding your operating systems for Windows which I am using it would be here:
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/c68c5e82-3674-4c80-af93-6e6d8366ed36)
 
   
 #### How is the data protected?
