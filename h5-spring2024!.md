@@ -47,6 +47,8 @@ You can add a password by clickling the little + icon on the right side.
 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/3dbe8f44-41c3-4b39-a399-c54ea752e630)
 
+It'll pop up with this image, usually taking on the URL that the website is currently on, it can also be manually changed if wanted.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/70d80e65-0a84-4e63-afcc-077cfa701a65)
 
 
 
