@@ -9,26 +9,32 @@ I will be following the following instructions: [https://terokarvinen.com/2022/c
 
 4:26
 I update all software
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e52a9351-4a47-4a9f-8d6c-677ab10b774b)y
 
 4:28
 Install hashcat, ran into a problem
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/4519bcdc-5d84-456f-9c45-2c7da3ca4d3f)
 
 4:33
 I updated again and will see if it works.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/734b05a9-86d6-4f66-9771-afa7a1ea4be8)
 
 4:35
 The download worked.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b532d535-5a2d-476e-b0f7-4e78b43de780)
 
 4:38
 Made the directory and moved to it.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bb013d5b-6e7d-492b-92e5-ed7fd5867afc)
 
 4:41
 Downloaded a directory.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bc95dd3b-5108-4781-bc21-20e8c84a3191)
 
 4:46
