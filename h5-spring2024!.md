@@ -8,7 +8,7 @@
 I will be following the following instructions: [https://terokarvinen.com/2022/cracking-passwords-with-hashcat/](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
 4:26
-I update all software
+I updated all software
 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e52a9351-4a47-4a9f-8d6c-677ab10b774b)y
 
