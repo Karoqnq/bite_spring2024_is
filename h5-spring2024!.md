@@ -8,11 +8,16 @@
 ### c) Choose a password manager. (This subtask b does not require tests with a computer). First, create a short list of some password managers; then pick one. Explain:
 A list of some well known password managers: Dashlane, Bitwarden, Google, 1Password, Nordpass
 
-I chose Bitwarden due to having used it myself now for around half a year now.
+I chose Bitwarden due to having used it myself for around half a year now.
 
 - What threats does it protect against?
+  
 - What information is encrypted, what's not?
+  
 - What's the license? How would you describe license's effects or categorize it?
+  
 - Where is the data stored? If in "the cloud", which country / juristiction / which companies? If on local disk, where?
+  
 - How is the data protected?
+  
 ### d) Demonstrate the use of a password manager, the one you picked in previous subtask.
