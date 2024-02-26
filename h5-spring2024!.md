@@ -14,7 +14,7 @@ I chose Bitwarden due to having used it myself for around half a year now.
 Bitwarden like any other password manager mainly protects agains threats relating to password security such as data breaches, unauthorized access, and phising.
   
 #### What information is encrypted, what's not?
-Bitwarden encrypts all the sensitive information added into the vault: passwords, credit card numbers, secure notes and any other personal information. What it does not encrypt is the metadata, as an example information regarding the names or structures of folders. This enables them to have different features regarding searching and organizing within their application. 
+Bitwarden encrypts all the sensitive information added into the vault: passwords, credit card numbers, secure notes and any other personal information. They have a full list shown on their website [URL: https://bitwarden.com/help/vault-data/](https://bitwarden.com/help/vault-data/). What it does not encrypt is the metadata, as an example information regarding the names or structures of folders. This enables them to have different features regarding searching and organizing within their application. 
   
 #### What's the license? How would you describe license's effects or categorize it?
 
