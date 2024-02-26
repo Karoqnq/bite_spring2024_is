@@ -33,4 +33,7 @@ First step: Go to their website, there you can see the icon "Get started" in the
 
 Then: Set up your account
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/57b9d9b1-cd7c-41df-b5e3-3596802c8df7)
+Next up: Download the mobile app, set up a local server on your computer or download the browser extension. In this case I've downloaded the browser extension (I also own the mobile version).
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/6f659c86-2102-4bb9-9548-e023953e2f9b)
+
 
