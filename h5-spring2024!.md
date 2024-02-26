@@ -19,6 +19,13 @@ Install hashcat, ran into a problem
 I updated again and will see if it works.
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/734b05a9-86d6-4f66-9771-afa7a1ea4be8)
 
+4:35
+The download worked.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b532d535-5a2d-476e-b0f7-4e78b43de780)
+
+
+
+
 
 
 
