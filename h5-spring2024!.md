@@ -39,6 +39,7 @@ Now you should see bitwarden in your extensions, you can pin it as an extension 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bc7f179a-2996-47d8-a686-2468f622f2c9)
 
 When you open up the extension you can see the following types.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e452d2a1-6f05-4e2e-b6d2-f6923ea81a77)
 
 
