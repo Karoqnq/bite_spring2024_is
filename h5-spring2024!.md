@@ -49,7 +49,10 @@ You can add a password by clickling the little + icon on the right side.
 
 It'll pop up with this image, usually taking on the URL that the website is currently on, it can also be manually changed if wanted.
 You can change the name of the save to whatever you like as long as the URL is written in the URL section. Make it whatever makes it the easiest to find for you. Then fill the username and password.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/70d80e65-0a84-4e63-afcc-077cfa701a65)
 
+When setting up the password the app recommends that you use their password generator. In here you can choose the length and what kind of characters you'd want in your password.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/3e695ff8-b13e-43e0-a070-8522c60c18db)
 
 
