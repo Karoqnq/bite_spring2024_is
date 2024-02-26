@@ -27,3 +27,6 @@ They have data storage both on their own servers and on your local machine. For 
   The data is sealed with end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process. The data is encrypted before it leaves your device, and the only person with access to decrypting it will be you, even the staff can't unlock your data. 
   
 ### d) Demonstrate the use of a password manager, the one you picked in previous subtask.
+
+First step: Go to their website
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b8d150ca-d488-4f5b-a4d1-a5b3e296936e)
