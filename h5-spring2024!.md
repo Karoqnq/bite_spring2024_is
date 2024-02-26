@@ -56,4 +56,9 @@ When setting up the password the app recommends that you use their password gene
 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/3e695ff8-b13e-43e0-a070-8522c60c18db)
 
+One you're ready you can click on save.
+
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/6130810c-c49f-4200-b23f-2aadc95dfb08)
+
+
 
