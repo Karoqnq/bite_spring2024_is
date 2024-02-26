@@ -62,6 +62,7 @@ One you're ready you can click on save.
 
 Now whenever you're on the website it should show you an option for the password you just set up. By clicking on it, it should autofill the information, if that doesn't happen you can also click on the little icons with which you can manually copy the information into the needed boxes.
 
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/828f7eb6-9c00-4bfb-bf35-df5464c53515)
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/da856981-1fd4-4817-9c44-4e17bdb8f34a)
 
 
