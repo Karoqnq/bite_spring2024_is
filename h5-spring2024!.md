@@ -48,19 +48,6 @@ The solved hash.
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/8dc59907-a17a-4be7-8400-ff74b9571cf0)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### c) Choose a password manager. (This subtask b does not require tests with a computer). First, create a short list of some password managers; then pick one. Explain:
 #### A list of some well known password managers: Dashlane, Bitwarden, Google, 1Password, Nordpass
 
