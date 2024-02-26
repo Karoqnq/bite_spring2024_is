@@ -43,6 +43,10 @@ When you open up the extension you can see the following types.
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e452d2a1-6f05-4e2e-b6d2-f6923ea81a77)
 
 I've used bitwarden mainly for passwords so I'll show a quick little setup for how to setup a password for a website.
+You can add a password by clickling the little + icon on the right side.
+
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/3dbe8f44-41c3-4b39-a399-c54ea752e630)
+
 
 
 
