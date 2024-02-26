@@ -10,7 +10,7 @@ I will be following the following instructions: [https://terokarvinen.com/2022/c
 4:26
 I updated all software
 
-![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e52a9351-4a47-4a9f-8d6c-677ab10b774b)y
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e52a9351-4a47-4a9f-8d6c-677ab10b774b)
 
 4:28
 Install hashcat, ran into a problem
