@@ -7,6 +7,22 @@
 ### b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 I will be following the following instructions: [https://terokarvinen.com/2022/cracking-passwords-with-hashcat/](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
+4:26
+I update all software
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e52a9351-4a47-4a9f-8d6c-677ab10b774b)y
+
+4:28
+Install hashcat, ran into a problem
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/4519bcdc-5d84-456f-9c45-2c7da3ca4d3f)
+
+4:33
+I updated again and will see if it works.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/734b05a9-86d6-4f66-9771-afa7a1ea4be8)
+
+
+
+
+
 ### c) Choose a password manager. (This subtask b does not require tests with a computer). First, create a short list of some password managers; then pick one. Explain:
 #### A list of some well known password managers: Dashlane, Bitwarden, Google, 1Password, Nordpass
 
