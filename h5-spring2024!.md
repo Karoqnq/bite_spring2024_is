@@ -23,6 +23,33 @@ I updated again and will see if it works.
 The download worked.
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b532d535-5a2d-476e-b0f7-4e78b43de780)
 
+4:38
+Made the directory and moved to it.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bb013d5b-6e7d-492b-92e5-ed7fd5867afc)
+
+4:41
+Downloaded a directory.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bc95dd3b-5108-4781-bc21-20e8c84a3191)
+
+4:46
+Find the closest match and trying one of them to try and crack the hash.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/23c52d77-b005-4e6b-b5d8-615c65c80b70)
+
+4:50
+Cracking the hash with MD5.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/0b2cc7aa-c5c7-4acd-a320-fac72867f505)
+
+4:56
+The solved hash.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/8dc59907-a17a-4be7-8400-ff74b9571cf0)
+
+
+
+
+
+
+
+
 
 
 
