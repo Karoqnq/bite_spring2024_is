@@ -4,8 +4,25 @@
 [€ Schneier 2015: Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003)
 
 #### One-Way Functions
+- Central to public-key cryptography, building block for many protocols
+- Easy to compute, harder to reverse
+- Example: plate = smash a plate into a thousand tiny pieces > easy to smash, hard to put back together
+- Lacks proof of mathematical existence
+- Trapdoor one-way function, easy to compute both ways if you know the "secret"
+- Example: watch = take apart all pieces is easy > easy to take apart, hard to put back together UNLESS given the instructions
 
-#### One-Way Functions
+#### One-Way Hash Functions
+- Central to modern cryptography, essential for tasks like fingerprinting pre-images and ensuring data integrity.
+- Takes a variable-length input string (pre-image) and converts it to a fixed-length output string (hash value)
+- Easy to compute a hash value from pre-image, hard to generate a pre-image that hashes a particular value
+- Collision-free meaning that it's close to impossible to generate two pre-images with the same hash value
+- Fingerprinting example: Want to verify that someone has a particular file without sending it to you, ask them for the hash value. If the correct value is sent to you it's almost certain he has the file.
+
+#### Message Authentication Codes
+- MAC/DAC is a one-way hash function with the addition of a secret key
+- Hash value is both the pre-image and the key
+- Same as the hash function, expect only someone with a key can verify the hash value
+
 
 ### a) Install Hashcat. Test it with a sample hash. See Karvinen 2022: Cracking Passwords with Hashcat and b) crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 I will be following the following instructions: [https://terokarvinen.com/2022/cracking-passwords-with-hashcat/](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
