@@ -37,6 +37,8 @@ Next up: Download the mobile app, set up a local server on your computer or down
 Now you should see bitwarden in your extensions, you can pin it as an extension in which case it'll always show up on the right side as seen in the picture.
 
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bc7f179a-2996-47d8-a686-2468f622f2c9)
+When you open up the extension you can see the following.
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/e452d2a1-6f05-4e2e-b6d2-f6923ea81a77)
 
 
 
