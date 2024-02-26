@@ -34,8 +34,8 @@ Then: Set up your account
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/57b9d9b1-cd7c-41df-b5e3-3596802c8df7)
 Next up: Download the mobile app, set up a local server on your computer or download the browser extension. In this case I've downloaded the browser extension (I also own the mobile version).
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/6f659c86-2102-4bb9-9548-e023953e2f9b)
-Now you should see bitwarden in your extensions, you can pin it as an extension in which case it'll always show up on the right side.
+Now you should see bitwarden in your extensions, you can pin it as an extension in which case it'll always show up on the right side as seen in the picture.
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/bc7f179a-2996-47d8-a686-2468f622f2c9)
-![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/ae398893-db1a-460a-bee2-3dcd32aa925c)
+
 
 
