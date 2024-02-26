@@ -28,5 +28,9 @@ They have data storage both on their own servers and on your local machine. For 
   
 ### d) Demonstrate the use of a password manager, the one you picked in previous subtask.
 
-First step: Go to their website
+First step: Go to their website, there you can see the icon "Get started" in the right side menu and click that
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/b8d150ca-d488-4f5b-a4d1-a5b3e296936e)
+
+Then: Set up your account
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/57b9d9b1-cd7c-41df-b5e3-3596802c8df7)
+
