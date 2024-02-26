@@ -19,5 +19,6 @@ I chose Bitwarden due to having used it myself for around half a year now.
 - Where is the data stored? If in "the cloud", which country / juristiction / which companies? If on local disk, where?
   
 - How is the data protected?
+  The data is sealed with end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process. The data is encrypted with a corporate password vault before it leaves your device, and the only person with access will be you, even the staff can't unlock your data. 
   
 ### d) Demonstrate the use of a password manager, the one you picked in previous subtask.
