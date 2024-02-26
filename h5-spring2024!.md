@@ -33,14 +33,17 @@ Downloaded a directory.
 
 4:46
 Find the closest match and trying one of them to try and crack the hash.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/23c52d77-b005-4e6b-b5d8-615c65c80b70)
 
 4:50
 Cracking the hash with MD5.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/0b2cc7aa-c5c7-4acd-a320-fac72867f505)
 
 4:56
 The solved hash.
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/8dc59907-a17a-4be7-8400-ff74b9571cf0)
 
 
