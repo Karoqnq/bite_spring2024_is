@@ -12,10 +12,10 @@
 
 [Shavers & Bair 2016: Hiding Behind the Keyboard:](https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0020) The Tor Browser €; subchapters: "Introduction", "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR".
 
--
--
--
--
+- Basically a modified version of firefox
+- Intention is to allow unrestricted and anonymous communication over the Internet.
+- Allows everyone to connect to websites that might be blocked, communicate business privately and so much more, however, it is also used to commit crimes.
+- Initially developed by the US government in 2002, presently not controlled by them.
 -
 
 
