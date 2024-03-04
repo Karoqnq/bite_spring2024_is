@@ -19,7 +19,11 @@
 - Not controlled by any one entity rather open to improvements from anyone with the skills to do so.
 - Data is layered with curve cryptography.
 - Sending data over Tor is like an onion with layers.
-
+- FBI succeeded to take down criminals regarding child pornography services due to a exploit of Firefox. This got fixed soon after.
+- Tor should be left the way it is as that's the most secure. Most times users do the mistakes of changing things or allowing location services which ends up with possibly identifying the user.
+- Man in the middle attacks used to bypass security.
+- To find true IPs, sometimes emails are infected with tracking codes. If the email allows HTML a special tracking script runs and the IP will be obtained.
+- The same can be done but with documents / files, worse when document is opened but more known not to open suspicious documents.
 
 ### a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
 
