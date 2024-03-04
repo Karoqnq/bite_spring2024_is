@@ -46,12 +46,15 @@ I went to the site Ahmia.fi from where I clicked on the Onion service and it too
 
 #### marketplace
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/33492a40-c2e3-4378-9945-68e4551d2917)
+Seemed like it had been around for awhile, I think I also came across it when we were surfing during class. Selling quite "normal" illegal things such as guns, drugs and credit cards.
 
 
 #### forum
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/0b4c39ed-177b-498d-a423-910493020752)
+Interesting! A forum mixed with a market place which I hadn't seen prior but kind of made sense.
 
 
 #### a site for a well known organization that has a physical street address in the real world
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/7639bb3f-1dba-42af-bc62-37e24cb53da1)
+I think the easiest official site to find, I found it through the dark net Pug who has a lot of interesting links but I'm a bit too anxious to go clicking around.
 
