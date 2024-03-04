@@ -16,7 +16,9 @@
 - Intention is to allow unrestricted and anonymous communication over the Internet.
 - Allows everyone to connect to websites that might be blocked, communicate business privately and so much more, however, it is also used to commit crimes.
 - Initially developed by the US government in 2002, presently not controlled by them.
--
+- Not controlled by any one entity rather open to improvements from anyone with the skills to do so.
+- Data is layered with curve cryptography.
+- Sending data over Tor is like an onion with layers.
 
 
 ### a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
