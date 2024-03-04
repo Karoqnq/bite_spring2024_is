@@ -22,7 +22,13 @@
 ### a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
 
 I went onto this link on Tero's webpage 
+
 ![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/9fb626d9-8469-4289-98ac-9c7cabad10c0)
+
+From there on I downloaded TOR bundle for Linux as that's what we use on our VM.
+
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/ada584fc-7edb-422f-8058-d23f5d75e902)
+
 
 
 ### b) Browse TOR network, find, take screenshots and comment
