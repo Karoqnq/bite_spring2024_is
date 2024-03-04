@@ -1,7 +1,7 @@
 # H6 Anonymous
 ### x) Read and summarize (briefly, e.g. with some bullets)
 
-[Quintin 2014: 7 Things You Should Know About Tor](https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor)
+#### [Quintin 2014: 7 Things You Should Know About Tor](https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor)
 
 - Not only used by criminals, can be used to circumvent censorships, anonymity, secure communications and more.
 - Tor is open-source
@@ -10,7 +10,7 @@
 - Not foolproof, always use tor browser bundle as it's the safest option. Do not add any add ons to it.
 
 
-[Shavers & Bair 2016: Hiding Behind the Keyboard:](https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0020) The Tor Browser €; subchapters: "Introduction", "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR".
+#### [Shavers & Bair 2016: Hiding Behind the Keyboard:](https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0020) The Tor Browser €; subchapters: "Introduction", "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR".
 
 - Basically a modified version of firefox
 - Intention is to allow unrestricted and anonymous communication over the Internet.
