@@ -21,6 +21,10 @@
 
 ### a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
 
+I went onto this link on Tero's webpage 
+![image](https://github.com/Karoqnq/bite_spring2024_is/assets/112175331/9fb626d9-8469-4289-98ac-9c7cabad10c0)
+
+
 ### b) Browse TOR network, find, take screenshots and comment
 
 search engine for onion sites
